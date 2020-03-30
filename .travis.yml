@@ -5,5 +5,5 @@ script: "python -m unittest discover"
 deploy:
   provider: heroku
   api_key:
-    secure: "Ce7Z1sWT9lZ7sc1yAlRIuPLyeLyYHctP8uAInJCAY6nCAvJevAtezvDy8RcZDvTym95uvz+2HfC91cxvmDsGNg=="
+    secure: "bb2fd08d-9f8f-4cc8-8d6a-119b20e5cc04"
   app: my-cicd-travisci  
