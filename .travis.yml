@@ -5,4 +5,4 @@ script: "python -m unittest discover"
 deploy:
   provider: heroku
   api_key:
-    secure: "bb2fd08d-9f8f-4cc8-8d6a-119b20e5cc04"
+    secure: "YToxvi7GTxITXU5bP34QQvR3YdiPnW9x2I6qZQEbPPElTiU8VQkEJV35BVf6aYXK"
